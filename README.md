@@ -30,7 +30,7 @@ sudo apt install zsh
 sudo apt install poppler-utils
 ```
 
-Ubuntuにはpupパッケージが提供されていないため、GithubのReleaseからシングルバイナリを落としてきてパスの通った場所に置きましょう。
+Ubuntuにはpupパッケージが提供されていないため、GithubのReleaseからシングルバイナリを落としてきてchmod +xしてパスの通った場所に置きましょう。
 
 https://github.com/ericchiang/pup
 
